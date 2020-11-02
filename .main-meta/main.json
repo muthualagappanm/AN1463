@@ -24,15 +24,6 @@
             "Nickel-Metal Hydride"     
         ],
         "additionalData": {
-            "longDescription": {
-              "metaDataVersion": "1.0.0",
-              "category": "com.microchip.portal.fileRef",
-              "content": {
-                "metaDataVersion": "1.0.0",
-                "fileName": "./../../readme.md",
-                "mimeType": "text/markdown"
-              }
-            },
            "links": {
               "openWithUrl": "http://ww1.microchip.com/downloads/en/Appnotes/01463A.pdf",
               "downloadUrl": "http://ww1.microchip.com/downloads/en/AppNotes/01463A_source.zip"
