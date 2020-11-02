@@ -2,9 +2,9 @@
     "metaDataVersion": "1.0.0",
     "category": "com.microchip.portal.appNotes",
     "content": {
-        "metaDataVersion": "1.0.0",
+        "metaDataVersion": "1.0.2",
         "name": "AN1463",
-        "version": "1.0.1",
+        "version": "1.0.4",
         "displayName": "AN1463",
         "title": "NiMH Trickle Charger with Status Indication",
         "shortDescription": "In spite of the considerable media attention to the concept of recyclable power sources, usage of rechargeable Nickel-Metal Hydride (NiMH) cells has been limited. The combined charger and cell cost have been a mitigating factor in favour of primary cells. The high internal impedances of primary cells are not suitable for the surge currents needed for digital cameras, DC motors and walkie-talkies. NiMH cells exhibit low internal impedances and, as such, are particularly viable in these applications.",
